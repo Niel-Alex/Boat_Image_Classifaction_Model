@@ -65,6 +65,13 @@ The dataset contains images of various boat categories.
 
 ---
 
+## 📦 Model Download
+
+The trained CNN model can be accessed here:
+
+👉 [Download Model] (https://drive.google.com/file/d/1IXfeEz2kDPj_qygOGlFljimPlUWHP0PO/view?usp=drive_link)
+
 ## 👤 Author
 
-Your Name
+Egwurube Daniel Alex
+
